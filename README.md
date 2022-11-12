@@ -1,5 +1,7 @@
 # furniture
 
+A company specializing in modern home furniture offers the latest versions of sofas and chairs with their prices, if there is external delivery and shipping.
+
 ## Project setup
 ```
 npm install
